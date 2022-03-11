@@ -1,7 +1,7 @@
 ---
 title: Rahman Mustapha
 role: (Soon to be Graduate of) Neuroscience & New Media Art/Design
-avatar_filename: ""
+avatar_filename: img_9234-better-qual.png
 bio: Creative Engineering, Game Design, Video Game Music, Algorithmic Art
 interests:
   - Artificial Intelligence
