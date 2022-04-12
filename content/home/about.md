@@ -8,7 +8,7 @@ weight: 20
 title: Biography
 design:
   background:
-    image: compress.jpg
+    image: ""
 ---
 I was born in Tucson, Arizona on July 21, 2000 before eventually moving to Mesa, AZ about a decade later. Both my parents were born in Nigeria but my mom moved to New York when she was 5 and my dad upon completing his undergradaute education in Nigeria. I have 3 younger siblings that are just as lovely as they are loud, something they got from me withou a doubt.
 
