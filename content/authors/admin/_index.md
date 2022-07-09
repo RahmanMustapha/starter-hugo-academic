@@ -11,26 +11,20 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: armustap@gmail.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/rahmanmustapha
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/rahmanmustaphame/
 organizations:
   - name: UChicago
 education:
   courses:
-    - course: BA in Neuroscience
+    - course: Neuroscience
       institution: University of Chicago
-      year: 2020
+      year: 2022
     - course: Media Arts & Design
       institution: UChicago
       year: 2022
