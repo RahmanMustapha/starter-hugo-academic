@@ -18,8 +18,7 @@ external_link: https://github.com/RahmanMustapha/allen_notebooks
 url_slides: ""
 title: Analysis of Suppressed by Contrast Neuronal Cells found in Shallow Visual
   Cortex of Mice
-tags:
-  - Neuroscience
+tags: []
 links: []
 image:
   caption: ""
