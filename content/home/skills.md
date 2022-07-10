@@ -27,7 +27,7 @@ feature:
     icon_pack: fab
     name: Git/Github
   - description: 4 years
-    icon: browsers
+    icon: browser
     icon_pack: fas
     name: Blogging/Articles
   - description: 3 years
@@ -39,7 +39,7 @@ feature:
     icon_pack: fas
     name: Adobe Photoshop
   - description: 3 years
-    icon: rectangle-pro
+    icon: 'rectangle-pro'
     icon_pack: fas
     name: Adobe Premiere Pro
   - description: 1 year
@@ -47,7 +47,7 @@ feature:
     icon_pack: fas
     name: Reaper
   - description: 1 year
-    icon: rectangles-mixed
+    icon: 'rectangles-mixed'
     icon_pack: fas
     name: TouchDesigner
   - description: 3 years
