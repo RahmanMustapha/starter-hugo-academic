@@ -61,8 +61,7 @@ feature:
   - description: 1 year
     icon: cubes
     icon_pack: fas
-    name: Maya
-    
+    name: Maya 
 active: true
 ---
 
