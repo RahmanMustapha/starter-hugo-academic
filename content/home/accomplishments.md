@@ -15,7 +15,7 @@ item:
     date_start: '2019-12-21'
     description: ""
     organization: Coursera
-    organization_url: https://www.coursera.org
+    organization_url: ''
     title: Learning How to Learn: Powerful mental tools to help you master tough subjects
     url: https://www.coursera.org/learn/learning-how-to-learn/home/welcome
   - certificate_url: https://www.coursera.org
