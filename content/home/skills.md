@@ -50,7 +50,7 @@ feature:
     icon: "diagram-project"
     icon_pack: fas
     name: TouchDesigner
-  - description: 3 years
+  - description: 30 years
     icon: js
     icon_pack: fab
     name: Javascript
