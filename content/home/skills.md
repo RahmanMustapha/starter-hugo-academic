@@ -27,7 +27,7 @@ feature:
     icon_pack: fab
     name: Git/Github
   - description: 4 years
-    icon: browser
+    icon: window-restore
     icon_pack: fas
     name: Blogging/Articles
   - description: 3 years
