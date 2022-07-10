@@ -48,8 +48,8 @@ item:
     title: 'Understanding the Brain: The Neurobiology of Everyday Life'
     url: https://www.coursera.org/learn/neurobiology/home/welcome
   - certificate_url: https://www.linkedin.com/in/rahmanmustaphame/
-    date_end: '10-18-2019'
-    date_start: '10-16-2019'
+    date_end: '10/18/2019'
+    date_start: '10/16/2019'
     description: ''
     organization: LinkedIn Learning
     organization_url: https://www.linkedin.com/learning
