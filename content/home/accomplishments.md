@@ -31,9 +31,9 @@ item:
     organization_url: https://www.coursera.org
     title: Machine Learning
     url: https://www.coursera.org/learn/machine-learning-course/home/welcome
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
+  - certificate_url: https://www.coursera.org
+    date_end: '2019-01-05'
+    date_start: '2019-12-21'
     description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: edX
     organization_url: https://www.edx.org
