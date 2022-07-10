@@ -23,7 +23,7 @@ organizations:
 education:
   courses:
     - course: Neuroscience
-      institution: University of Chicago
+      institution: UChicago
       year: 2022
     - course: Media Arts & Design
       institution: UChicago
