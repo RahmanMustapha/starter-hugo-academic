@@ -7,7 +7,7 @@ links:
   - url: https://www.youtube.com/watch?v=5o2wPy5hl0w
     name: Assisted in User Study to HandMorph and other projects within lab.
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
