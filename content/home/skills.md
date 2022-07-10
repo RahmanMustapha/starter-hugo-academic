@@ -46,7 +46,7 @@ feature:
     icon: music
     icon_pack: fas
     name: Reaper
-  - description: 1 year
+  - description: 10 year
     icon: 'circle-nodes'
     icon_pack: fas
     name: TouchDesigner
