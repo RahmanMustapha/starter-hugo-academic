@@ -12,7 +12,7 @@ summary: >-
   I then compiled the information into a dataframe comparing neural responses in different visual regions and across different genetic cre lines.
 
    I worked under Dr. Daniel Millman following his research (https://pubmed.ncbi.nlm.nih.gov/33108272) and Dr. Saskia de Vries at the Allen Institue.
-url_video: ""
+url_video: youtube.com
 date: 2022-07-09T10:56:03.372Z
 external_link: https://github.com/RahmanMustapha/allen_notebooks
 url_slides: ""
