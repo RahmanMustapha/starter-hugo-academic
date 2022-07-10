@@ -33,6 +33,7 @@ item:
     description: ""
     organization: LinkedIn Learning
     organization_url: https://www.linkedin.com/learning/?u=57690273
+    company_logo: linkedin_learning
     title: Lighting Design for Video Productions
     url: https://www.linkedin.com/learning/lighting-design-for-video-productions/welcome?autoplay=true&u=57690273
 widget_id: certificates
