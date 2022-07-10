@@ -48,7 +48,7 @@ feature:
     name: Reaper
   - description: 1 year
     icon: diagram-project
-    icon_pack: fas
+    icon_pack: far
     name: TouchDesigner
   - description: 3 years
     icon: js
