@@ -48,17 +48,17 @@ feature:
     name: Reaper
   - description: 1 year
     icon: diagram-project
-    icon_pack: far
+    icon_pack: fas
     name: TouchDesigner
   - description: 3 years
     icon: js
     icon_pack: fab
     name: Javascript
-  - description: 1 year
+  - description: 3 year
     icon: vr-cardboard
     icon_pack: fas
     name: VR
-  - description: 3 years
+  - description: 1 years
     icon: cubes
     icon_pack: fas
     name: Maya
