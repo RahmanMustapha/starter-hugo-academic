@@ -31,22 +31,22 @@ item:
     organization_url: https://www.coursera.org
     title: Machine Learning
     url: https://www.coursera.org/learn/machine-learning-course/home/welcome
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+  - certificate_url: https://www.coursera.org
+    date_end: '2019-01-05'
+    date_start: '2019-12-21'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Learning How to Learn: Powerful mental tools to help you master tough subjects
+    url: https://www.coursera.org/learn/learning-how-to-learn/home/welcome
+  - certificate_url: https://www.datacamp.com
+    date_end: '2019-01-05'
+    date_start: '2019-12-21'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Understanding the Brain: The Neurobiology of Everyday Life
+    url: https://www.coursera.org/learn/neurobiology/home/welcome
 
 design:
   columns: '2'
