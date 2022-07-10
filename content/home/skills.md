@@ -46,10 +46,6 @@ feature:
     icon: music
     icon_pack: fas
     name: Reaper
-  - description: 10 year
-    icon: "circle-nodes"
-    icon_pack: fas
-    name: Touch Designer
   - description: 3 years
     icon: js
     icon_pack: fab
@@ -58,10 +54,14 @@ feature:
     icon: vr-cardboard
     icon_pack: fas
     name: VR
-  - description: 1 years
+  - description: 1 year
     icon: cubes
     icon_pack: fas
     name: Maya
+  - description: 1 year
+    icon: circle-nodes
+    icon_pack: fas
+    name: TouchDesigner
 active: true
 ---
 
