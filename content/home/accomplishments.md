@@ -36,7 +36,7 @@ item:
     date_start: '2019-12-21'
     description: ''
     organization: Coursera
-    organization_url: https://www.edx.org
+    organization_url: https://www.coursera.org
     title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.datacamp.com
