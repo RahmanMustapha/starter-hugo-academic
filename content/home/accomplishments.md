@@ -37,7 +37,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Blockchain Fundamentals
+    title: 'Learning How to Learn: Powerful mental tools to help you master tough subjects'
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
