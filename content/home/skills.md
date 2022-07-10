@@ -47,7 +47,7 @@ feature:
     icon_pack: fas
     name: Reaper
   - description: 1 year
-    icon: music
+    icon: arrows-to-eye
     icon_pack: fas
     name: TouchDesigner
   - description: 3 years
