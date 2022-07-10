@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Computer Science
-    tag: CS
+  - name: Neuroscience
+    tag: Neuro
   - name: Media Art/Design
     tag: MAAD
+  - name: Computer Science
+    tag: CS
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
