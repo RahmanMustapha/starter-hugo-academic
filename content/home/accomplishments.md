@@ -30,7 +30,7 @@ item:
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Machine Learning
-    url: ''
+    url: https://www.coursera.org/learn/machine-learning-course/home/welcome
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
