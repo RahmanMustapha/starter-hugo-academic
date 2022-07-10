@@ -19,8 +19,7 @@ url_slides: ""
 title: Analysis of Suppressed by Contrast Neuronal Cells found in Shallow Visual
   Cortex of Mice
 tags: []
-links:
-  - url: HTTPS://WOWCHEMY.COM/DOCS/PAGE-BUILDER/#ICONS
+links: []
 image:
   caption: ""
   focal_point: Smart
