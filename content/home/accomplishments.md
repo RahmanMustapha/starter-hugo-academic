@@ -19,7 +19,7 @@ item:
     title: "Learning How to Learn: Powerful mental tools to help you master tough
       subjects"
     url: https://www.coursera.org/learn/learning-how-to-learn/home/welcome
-  - certificate_url: https://www.datacamp.com
+  - certificate_url: https://www.coursera.org
     date_end: 2019-01-05
     date_start: 2019-12-21
     description: ""
@@ -32,7 +32,7 @@ item:
     date_start: 2019-10-16
     description: ""
     organization: LinkedIn Learning
-    organization_url: https://www.linkedin.com/learning
+    organization_url: https://www.linkedin.com/learning/?u=57690273
     title: Lighting Design for Video Productions
     url: https://www.linkedin.com/learning/lighting-design-for-video-productions/welcome?autoplay=true&u=57690273
 widget_id: certificates
