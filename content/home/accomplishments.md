@@ -38,7 +38,7 @@ item:
     organization: Coursera
     organization_url: https://www.coursera.org
     title: 'Learning How to Learn: Powerful mental tools to help you master tough subjects'
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: https://www.coursera.org/learn/learning-how-to-learn/home/welcome
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
