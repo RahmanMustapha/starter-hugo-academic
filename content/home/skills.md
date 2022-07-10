@@ -47,10 +47,10 @@ feature:
     icon_pack: fas
     name: Reaper
   - description: 1 year
-    icon: "diagram-project"
+    icon: arrows-turn-to-dots
     icon_pack: fas
     name: TouchDesigner
-  - description: 30 years
+  - description: 3 years
     icon: js
     icon_pack: fab
     name: Javascript
