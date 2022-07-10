@@ -39,7 +39,7 @@ feature:
     icon_pack: fas
     name: Adobe Photoshop
   - description: 3 years
-    icon: 'rectangle-pro'
+    icon: file-video
     icon_pack: fas
     name: Adobe Premiere Pro
   - description: 1 year
@@ -47,7 +47,7 @@ feature:
     icon_pack: fas
     name: Reaper
   - description: 1 year
-    icon: 'rectangles-mixed'
+    icon: diagram-project
     icon_pack: fas
     name: TouchDesigner
   - description: 3 years
