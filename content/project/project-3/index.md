@@ -4,6 +4,9 @@ title: Analysis of Suppressed by Contrast Neuronal Cells found in Shallow Visual
 date: 2022-07-10T18:03:21.012Z
 draft: false
 featured: false
+tags:
+  - Neuro
+external_link: https://github.com/RahmanMustapha/allen_notebooks
 image:
   filename: featured
   focal_point: Smart
