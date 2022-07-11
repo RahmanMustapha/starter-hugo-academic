@@ -1,5 +1,5 @@
 ---
-title: Project 9
+title: Designing Virtual Spaces
 date: 2022-07-10T18:04:54.614Z
 draft: false
 featured: false
