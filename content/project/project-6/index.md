@@ -1,5 +1,5 @@
 ---
-title: Project 6
+title: Internet Art
 date: 2022-07-10T18:03:59.903Z
 draft: false
 featured: false
