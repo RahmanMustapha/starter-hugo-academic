@@ -1,10 +1,14 @@
 ---
-title: Porject 7
+title: Pro 7
 date: 2022-07-10T18:04:15.711Z
-draft: false
-featured: false
+summary: An example of linking directly to an external project website using `external_link`.
+tags:
+- Demo
+
+# Optional external URL for project (replaces project detail page).
+external_link: http://example.org
+
 image:
-  filename: featured
+  caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-  preview_only: false
 ---
