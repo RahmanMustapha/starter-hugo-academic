@@ -1,5 +1,6 @@
 ---
-title: Project 3
+title: Analysis of Suppressed by Contrast Neuronal Cells found in Shallow Visual
+  Cortex of Mice
 date: 2022-07-10T18:03:21.012Z
 draft: false
 featured: false
