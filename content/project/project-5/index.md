@@ -14,6 +14,8 @@ summary: >-
   Field: <http://openendedgroup.com/field2/>
 draft: false
 featured: false
+tags:
+  - MAAD
 external_link: https://github.com/RahmanMustapha/VR-Production
 links:
   - url: https://congrats.maad.world/
