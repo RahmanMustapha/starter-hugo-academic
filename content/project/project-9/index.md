@@ -6,6 +6,8 @@ summary: I got my feet wet with Maya for the first time making and modifying 3D
   woodland environment.
 draft: false
 featured: false
+tags:
+  - MAAD
 external_link: https://github.com/RahmanMustapha/Virtual-Space
 image:
   filename: featured.png
