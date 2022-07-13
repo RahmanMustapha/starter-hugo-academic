@@ -14,6 +14,8 @@ summary: >-
   What will you have Arreta do?
 draft: false
 featured: false
+tags:
+  - MAAD
 external_link: https://noodlescaboodles.itch.io/whistleblower
 image:
   filename: file:///Users/rahmanmustapha/Desktop/featured.png
