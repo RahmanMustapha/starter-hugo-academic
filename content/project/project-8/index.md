@@ -18,7 +18,7 @@ tags:
   - MAAD
 external_link: https://noodlescaboodles.itch.io/whistleblower
 image:
-  filename: file:///Users/rahmanmustapha/Desktop/featured.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
