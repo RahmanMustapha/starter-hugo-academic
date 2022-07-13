@@ -11,8 +11,10 @@ tags:
 external_link: https://github.com/RahmanMustapha/hci
 links:
   - url: https://www.youtube.com/watch?v=5o2wPy5hl0w
-    name: Assisted in User Study to HandMorph and other projects within lab.
+    name: ""
   - url: https://dl.acm.org/doi/10.1145/3379337.3415875
+  - url: http://lab.plopes.org/
+    name: HCI Lab
 image:
   filename: featured.png
   focal_point: Smart
