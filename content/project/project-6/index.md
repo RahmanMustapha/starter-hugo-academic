@@ -6,6 +6,8 @@ summary: Worked on projects several internet art and internet music projects
   ASCII art as code poetry and algorithmic music and images.
 draft: false
 featured: false
+tags:
+  - MAAD
 external_link: https://github.com/RahmanMustapha/Internet-Art
 image:
   filename: featured.png
