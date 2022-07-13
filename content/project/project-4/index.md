@@ -7,6 +7,8 @@ summary: Projects I worked on as part of my New Media at a Distnace course. This
   online over large distances.
 draft: false
 featured: false
+tags:
+  - MAAD
 external_link: https://github.com/RahmanMustapha/New-Media
 image:
   filename: featured.png
