@@ -2,8 +2,8 @@
 title: Media Art Senior Capstone
 date: 2022-07-10T18:03:46.755Z
 summary: >-
-  Consists of components of several VR porjects I made using javascript and
-  field in a VR production course. The capsone project combined three of my
+  Consists of components of several VR projects I made using javascript and
+  field in a VR production course. The capstone project combined three of my
   passions in computer-generated music, colorful and algorithmic 3D art, and
   electrical muscle stimulation to make a visualizer in VR in which touching the
   virtual "knobs" would elicit electrical shocks to the arms. This mulitsensory
