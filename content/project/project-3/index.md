@@ -13,7 +13,7 @@ tags:
   - Neuro
 external_link: https://github.com/RahmanMustapha/allen_notebooks
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
