@@ -6,7 +6,7 @@ summary: >-
   Allen Intstitute Brain Observatory and Software Development Kit. Culminated in
   a research poster that I presented.
 
-   I worked under Dr. Daniel Millman following his research (https://pubmed.ncbi.nlm.nih.gov/33108272) and Dr. Saskia de Vries at the Allen Institue.
+   I worked under Dr. Daniel Millman following his research (https://pubmed.ncbi.nlm.nih.gov/33108272) and Dr. Saskia de Vries at the Allen Institute.
 draft: false
 featured: false
 tags:
